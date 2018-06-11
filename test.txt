@@ -2,4 +2,8 @@ only for git test
 »¹ÐÐ
 branch test
 complite merge bug
+<<<<<<< Updated upstream
 git stash pop test
+=======
+checkout test
+>>>>>>> Stashed changes
