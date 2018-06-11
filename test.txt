@@ -1,4 +1,4 @@
 only for git test
 »¹ÐÐ
 branch test
-merge 
+complite merge bug
