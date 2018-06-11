@@ -10,3 +10,4 @@ checkout test
 
 delete test
 delete test2
+delete test3
