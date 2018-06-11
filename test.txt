@@ -9,3 +9,4 @@ checkout test
 >>>>>>> Stashed changes
 
 delete test
+delete test2
