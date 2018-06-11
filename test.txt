@@ -7,3 +7,5 @@ git stash pop test
 =======
 checkout test
 >>>>>>> Stashed changes
+
+delete test
